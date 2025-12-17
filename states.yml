@@ -1,33 +1,80 @@
 ---
-- name: Tasmania
-  country_id: "12"
-  id: "101"
-  abbr: Tas
-- name: Victoria
-  country_id: "12"
-  id: "102"
-  abbr: Vic
-- name: New South Wales
-  country_id: "12"
-  id: "103"
-  abbr: NSW
-- name: ACT
-  country_id: "12"
-  id: "104"
-  abbr: ACT
-- name: Queensland
-  country_id: "12"
-  id: "105"
-  abbr: QLD
-- name: South Australia
-  country_id: "12"
-  id: "106"
-  abbr: SA
-- name: Northern Territory
-  country_id: "12"
-  id: "107"
-  abbr: NT
-- name: Western Australia
-  country_id: "12"
-  id: "108"
-  abbr: WA
+- name: Dolnośląskie
+  country_id: "219"  # Poland country ID w Spree
+  id: "1"
+  abbr: DS
+
+- name: Kujawsko-Pomorskie
+  country_id: "219"
+  id: "2"
+  abbr: KP
+
+- name: Łódzkie
+  country_id: "219"
+  id: "3"
+  abbr: ŁD
+
+- name: Lubelskie
+  country_id: "219"
+  id: "4"
+  abbr: LB
+
+- name: Lubuskie
+  country_id: "219"
+  id: "5"
+  abbr: LU
+
+- name: Małopolskie
+  country_id: "219"
+  id: "6"
+  abbr: MP
+
+- name: Mazowieckie
+  country_id: "219"
+  id: "7"
+  abbr: MZ
+
+- name: Opolskie
+  country_id: "219"
+  id: "8"
+  abbr: OP
+
+- name: Podkarpackie
+  country_id: "219"
+  id: "9"
+  abbr: PK
+
+- name: Podlaskie
+  country_id: "219"
+  id: "10"
+  abbr: PD
+
+- name: Pomorskie
+  country_id: "219"
+  id: "11"
+  abbr: PM
+
+- name: Śląskie
+  country_id: "219"
+  id: "12"
+  abbr: ŚL
+
+- name: Świętokrzyskie
+  country_id: "219"
+  id: "13"
+  abbr: ŚK
+
+- name: Warmińsko-Mazurskie
+  country_id: "219"
+  id: "14"
+  abbr: WM
+
+- name: Wielkopolskie
+  country_id: "219"
+  id: "15"
+  abbr: WP
+
+- name: Zachodniopomorskie
+  country_id: "219"
+  id: "16"
+  abbr: ZP
