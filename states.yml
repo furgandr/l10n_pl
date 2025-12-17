@@ -1,80 +1,80 @@
 ---
 - name: Dolnośląskie
-  country_id: "219"  # Poland country ID w Spree
+  country_id: "162"
   id: "1"
   abbr: DS
 
 - name: Kujawsko-Pomorskie
-  country_id: "219"
+  country_id: "162"
   id: "2"
   abbr: KP
 
 - name: Łódzkie
-  country_id: "219"
+  country_id: "162"
   id: "3"
   abbr: ŁD
 
 - name: Lubelskie
-  country_id: "219"
+  country_id: "162"
   id: "4"
   abbr: LB
 
 - name: Lubuskie
-  country_id: "219"
+  country_id: "162"
   id: "5"
   abbr: LU
 
 - name: Małopolskie
-  country_id: "219"
+  country_id: "162"
   id: "6"
   abbr: MP
 
 - name: Mazowieckie
-  country_id: "219"
+  country_id: "162"
   id: "7"
   abbr: MZ
 
 - name: Opolskie
-  country_id: "219"
+  country_id: "162"
   id: "8"
   abbr: OP
 
 - name: Podkarpackie
-  country_id: "219"
+  country_id: "162"
   id: "9"
   abbr: PK
 
 - name: Podlaskie
-  country_id: "219"
+  country_id: "162"
   id: "10"
   abbr: PD
 
 - name: Pomorskie
-  country_id: "219"
+  country_id: "162"
   id: "11"
   abbr: PM
 
 - name: Śląskie
-  country_id: "219"
+  country_id: "162"
   id: "12"
   abbr: ŚL
 
 - name: Świętokrzyskie
-  country_id: "219"
+  country_id: "162"
   id: "13"
   abbr: ŚK
 
 - name: Warmińsko-Mazurskie
-  country_id: "219"
+  country_id: "162"
   id: "14"
   abbr: WM
 
 - name: Wielkopolskie
-  country_id: "219"
+  country_id: "162"
   id: "15"
   abbr: WP
 
 - name: Zachodniopomorskie
-  country_id: "219"
+  country_id: "162"
   id: "16"
   abbr: ZP
