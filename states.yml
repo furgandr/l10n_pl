@@ -2,79 +2,79 @@
 - name: Dolnośląskie
   country_id: "162"
   id: "1"
-  abbr: DS
+  abbr: Dolnośląskie
 
 - name: Kujawsko-Pomorskie
   country_id: "162"
   id: "2"
-  abbr: KP
+  abbr: Kujawsko-Pomorskie
 
 - name: Łódzkie
   country_id: "162"
   id: "3"
-  abbr: ŁD
+  abbr: Łódzkie
 
 - name: Lubelskie
   country_id: "162"
   id: "4"
-  abbr: LB
+  abbr: Lubelskie
 
 - name: Lubuskie
   country_id: "162"
   id: "5"
-  abbr: LU
+  abbr: Lubuskie
 
 - name: Małopolskie
   country_id: "162"
   id: "6"
-  abbr: MP
+  abbr: Małopolskie
 
 - name: Mazowieckie
   country_id: "162"
   id: "7"
-  abbr: MZ
+  abbr: Małopolskie
 
 - name: Opolskie
   country_id: "162"
   id: "8"
-  abbr: OP
+  abbr: Opolskie
 
 - name: Podkarpackie
   country_id: "162"
   id: "9"
-  abbr: PK
+  abbr: Podkarpackie
 
 - name: Podlaskie
   country_id: "162"
   id: "10"
-  abbr: PD
+  abbr: Podlaskie
 
 - name: Pomorskie
   country_id: "162"
   id: "11"
-  abbr: PM
+  abbr: Pomorskie
 
 - name: Śląskie
   country_id: "162"
   id: "12"
-  abbr: ŚL
+  abbr: Śląskie
 
 - name: Świętokrzyskie
   country_id: "162"
   id: "13"
-  abbr: ŚK
+  abbr: Świętokrzyskie
 
 - name: Warmińsko-Mazurskie
   country_id: "162"
   id: "14"
-  abbr: WM
+  abbr: Warmińsko-Mazurskie
 
 - name: Wielkopolskie
   country_id: "162"
   id: "15"
-  abbr: WP
+  abbr: Wielkopolskie
 
 - name: Zachodniopomorskie
   country_id: "162"
   id: "16"
-  abbr: ZP
+  abbr: Zachodniopomorskie
